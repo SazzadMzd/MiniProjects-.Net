@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\My Learning Space\\C#\\Learning_C#\\Mini Projects\\EventSolution\\EventSolution.csproj": {}
+    "D:\\Study\\My Learning Space\\C#\\Learning_C#\\Mini Projects\\MiniProjects-.Net\\EventSolution\\EventSolution.csproj": {}
   },
   "projects": {
-    "D:\\Study\\My Learning Space\\C#\\Learning_C#\\Mini Projects\\EventSolution\\EventSolution.csproj": {
+    "D:\\Study\\My Learning Space\\C#\\Learning_C#\\Mini Projects\\MiniProjects-.Net\\EventSolution\\EventSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\My Learning Space\\C#\\Learning_C#\\Mini Projects\\EventSolution\\EventSolution.csproj",
+        "projectUniqueName": "D:\\Study\\My Learning Space\\C#\\Learning_C#\\Mini Projects\\MiniProjects-.Net\\EventSolution\\EventSolution.csproj",
         "projectName": "EventSolution",
-        "projectPath": "D:\\Study\\My Learning Space\\C#\\Learning_C#\\Mini Projects\\EventSolution\\EventSolution.csproj",
+        "projectPath": "D:\\Study\\My Learning Space\\C#\\Learning_C#\\Mini Projects\\MiniProjects-.Net\\EventSolution\\EventSolution.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\My Learning Space\\C#\\Learning_C#\\Mini Projects\\EventSolution\\obj\\",
+        "outputPath": "D:\\Study\\My Learning Space\\C#\\Learning_C#\\Mini Projects\\MiniProjects-.Net\\EventSolution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
